@@ -1,0 +1,16 @@
+*{
+    margin-top: 80px;
+    background-color: black;
+}
+.error{
+    display: flex;
+    justify-content: center;
+    align-items: middle;
+}
+h1, p{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 100px;
+}
